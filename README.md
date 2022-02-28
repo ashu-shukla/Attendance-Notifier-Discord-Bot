@@ -17,4 +17,4 @@ it will list for a set of words given by you!
 This is how I used it with another bot, that would delete previous messages so that 
 nobody gets confused with the previous class notifications.
 
-<img src="https://raw.githubusercontent.com/ashu-shukla/Attendance-Notifier-Discord-Bot/main/inaction.PNG" alt="bot-in-action" width="500"/>
+<img src="https://raw.githubusercontent.com/ashu-shukla/Attendance-Notifier-Discord-Bot/main/inaction.PNG" alt="bot-in-action" width="350"/>
