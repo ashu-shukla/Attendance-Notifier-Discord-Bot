@@ -1,5 +1,5 @@
 # Works with any video calling software as we are using the audio source.
-# Let me know how it goes @ashutoshshukla__
+# Let me know how it goes on instagram: @ashutoshshukla__
 
 
 import speech_recognition as sr
